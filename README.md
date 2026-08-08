@@ -5,20 +5,19 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on ... Full-stack web projects using Python, Django, REST APIs, React, and SQL.
+-🔭 I’m currently working on full-stack web development projects.
 
-🌱 I’m currently learning ... Advanced Django, React, FastAPI, MongoDB, and AI-assisted development.
+-🌱 I’m currently learning Python, Django, React, FastAPI, and AI tools.
 
-👯 I’m looking to collaborate on ... Open-source projects, web applications, and practical AI-powered solutions.
+-👯 I’m looking to collaborate on open-source and real-world web projects.
 
-🤔 I’m looking for help with ... Writing clean, scalable code and following real-world software development best practices.
+-🤔 I’m looking for help with improving my development skills and contributing to real-world projects.
 
-💬 Ask me about ... Python, Django, REST APIs, SQL, web development, and building practical projects.
+-💬 I am a Full-Stack Developer with Python, Django, React, PHP, JavaScript, and SQL.
 
-📫 How to reach me: ... GitHub or LinkedIn
+-📫 How to reach me: GitHub or LinkedIn
 
-😄 Pronouns: ... She/Her
+-😄 Pronouns: She/Her
 
-⚡ Fun fact: ... I enjoy turning ideas into working projects and learning something new every day.
-
+-⚡ Fun fact: I love turning ideas into practical, working applications.
 
